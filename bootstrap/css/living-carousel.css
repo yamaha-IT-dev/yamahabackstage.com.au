@@ -1,0 +1,25 @@
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+@media (min-width:320px) {
+.carousel {
+	
+	padding-top: 100px;
+}
+}
+
+@media (min-width:508px) {
+.carousel {
+	
+	padding-top: 100px;
+}
+}
+
+@media (min-width:768px) {
+.carousel {
+
+	padding-top: 100px;
+}
+}
