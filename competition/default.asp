@@ -7,8 +7,8 @@ p {
 	font-size: 16px;
 }
 .conditionText{
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 .termsConditionText{
 	padding-top: 1px;
@@ -28,7 +28,7 @@ p {
  <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
  <script src="//code.jquery.com/jquery.js"></script>
  <script src="../bootstrap/js/bootstrap.js"></script>
-<title>Win This Paiste – Sydney Drum Show Competition</title>
+<title>Win This Paiste &#45; Sydney Drum Show Competition</title>
 </head>
 <body>
 <!-- #include virtual="/include/header-new.asp" -->
@@ -53,7 +53,7 @@ p {
 
 				<p><p><p><p>How to Enter:
 				<div class='termsConditionText'>
-					<span class='paddingLeft'> 1.	Like the Yamaha Music Australia Facebook Page at facebook.com/Yamahabackstagepass</span>
+					<span class='paddingLeft'> 1.	Like the Yamaha Music Australia Facebook Page at <a target="_BLANK" href='https://www.facebook.com/Yamahabackstagepass/'>facebook.com/Yamahabackstagepass</a></span>
 					<span class='paddingLeft'> 2.	Take a photo of yourself at the Paiste Stand at the Sydney Drum and Percussion Show</span>
 					<span class='paddingLeft'> 3.	Upload your picture to our Facebook page and tag it with #winthispaiste</span>
 				</div>
@@ -111,7 +111,14 @@ p {
 
 				<div class='conditionText'> 
 					Instagram and Facebook have no association or jurisdiction over the competition. This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram or Facebook. Participants are providing information to Yamaha Music Australia and not to Instagram or Facebook. Winners in this promotion agree that their identity may be disclosed in winner announcements and promotional material. 
-				</div>					
+				</div>	
+				<p><p>
+				<div class="alert alert-info" role="alert">
+					<p><strong>* Terms and Conditions</strong></p>            
+					<p>Relay G10 will be awarded on merit to a workshop attendee present on the night, judged by Line 6 Product specialist based on participation in the HELIX tone creation activity. Prizes cannot be transferred, exchanged or redeemed for cash. Prize winners must be present in person to collect their prize.</p>		
+					<p>The prices set out in this advertisement are recommended retail prices (RRP) only and there is no obligation for Yamaha/Line 6 dealers to comply with this recommendation. Errors and omissions excepted.</p>
+				</div>
+				
 			</div>	
 		</div>
 		
