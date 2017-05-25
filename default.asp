@@ -1,4 +1,4 @@
-<%
+<% 
 dim strSection
 strSection = "home"
 %>
