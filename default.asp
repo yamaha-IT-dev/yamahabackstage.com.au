@@ -1,4 +1,4 @@
-<% 
+<%
 dim strSection
 strSection = "home"
 %>
@@ -39,7 +39,7 @@ strSection = "home"
             <div class="carousel-inner"> 
 				<div class="item active">
                     <a href="competition/">
-                        <img src="competition/images/YMH0033_PaisteCompBanners_1140x340.jpg" alt="Sydney Drum Show Competition">
+                        <img src="competition/images/YMH0033_PaisteCompBanners_1140x500.jpg" alt="Sydney Drum Show Competition">
                     </a>
                 </div> 			
 				<div class="item">

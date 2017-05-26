@@ -7,7 +7,9 @@ p {
 	font-size: 16px;
 }
 .conditionText{
-	padding-top: 5px;
+	font-family: "Calibre";
+	font-size: 16px;
+	padding-top: 1px;
 	padding-bottom: 5px;
 }
 .termsConditionText{
@@ -18,6 +20,8 @@ p {
 }
 .paddingLeft
 {
+	font-family: "Calibre";
+	font-size: 16px;
 	display: block;
 	padding-left: 30px;
 }
@@ -44,7 +48,7 @@ p {
 			<h1 class="page-header text-center">Win This Paiste &#45; Sydney Drum Show Competition</h1>
 			<p><img src="images/YMH0033_PaisteCompBanners_1140x340.jpg" alt="Sydney Drum Show Competition" class="img-responsive"></p>        
 		
-			<div class="row" style="padding: 2%;">
+			<div class="row" style="padding: 2%;padding-bottom:30px">
 
 				<h2>Win This Paiste &#45; Sydney Drum Show Competition</h2>
 
@@ -52,71 +56,70 @@ p {
 
 
 				<p><p><p><p>How to Enter:
-				<div class='termsConditionText'>
-					<span class='paddingLeft'> 1.	Like the Yamaha Music Australia Facebook Page at <a target="_BLANK" href='https://www.facebook.com/Yamahabackstagepass/'>facebook.com/Yamahabackstagepass</a></span>
-					<span class='paddingLeft'> 2.	Take a photo of yourself at the Paiste Stand at the Sydney Drum and Percussion Show</span>
-					<span class='paddingLeft'> 3.	Upload your picture to our Facebook page and tag it with #winthispaiste</span>
-				</div>
-				<p><p>Terms and Conditions:
-				<div class='termsConditionText'>
-					<span class='paddingLeft'>  &#149;	There will be 1 prize winner.</span>
-					<span class='paddingLeft'>  &#149;	The competition is open to Australian residents only </span>
-					<span class='paddingLeft'>  &#149;	Entries close 4pm May 28th AEST.</span>
-					<span class='paddingLeft'>  &#149;	Winner will be randomly selected based from those uploaded. </span>
-					<span class='paddingLeft'>  &#149;	Yamaha Music Australia will not provide the personal information disclosed by entrants to any third parties.</span>
-				</div>
+				<ol>
+					<li>Like the Yamaha Music Australia Facebook Page at <a target="_BLANK" href='https://www.facebook.com/Yamahabackstagepass/'>facebook.com/Yamahabackstagepass</a></li>
+					<li>Take a photo of yourself at the Paiste Stand at the Sydney Drum and Percussion Show </li>
+					<li>Upload your picture to our Facebook page and tag it with #winthispaiste </li>
+				</ol>
+			<div class="alert alert-info" role="alert">
+					<p><p>Terms and Conditions:
+					<ul>
+						<li>There will be 1 prize winner. </li>
+						<li>The competition is open to Australian residents only </li>
+						<li>Entries close 4pm May 28th AEST. </li>
+						<li>Winner will be randomly selected based from those uploaded.</li>
+						<li>Yamaha Music Australia will not provide the personal information disclosed by entrants to any third parties.</li>
+					
+					</ul>
+					<p>
+					<p style="padding-top:30px"><p><p><p><p>1. COMPETITION PROMOTER
 
-				<p><p><p><p><p>1. COMPETITION PROMOTER
-
-				<div class='conditionText'> The Promoter is Yamaha Music Pty Ltd, L1, 99 Queensbridge Street, Southbank Vic 3006.
-				</div>
-
-
-				<p><p><p><p><p><p><p><p><p><p>2. COMPETITION INFORMATION
-
-				<div class='conditionText'> Information on prizes and how to enter this competition form part of these Terms & Conditions of Entry.
-				</div>
+					<p>The Promoter is Yamaha Music Pty Ltd, L1, 99 Queensbridge Street, Southbank Vic 3006.
+					
 
 
-				<p><p><p><p><p><p><p><p><p><p><p>3. TERMS AND CONDITIONS OF ENTRY
+					<p>2. COMPETITION INFORMATION
 
-				<div class='conditionText'> By entering this competition, entrants accept the above-stated Terms & Conditions of Entry.
-				</div>
-
-
-				<p><p><p><p><p>4. WHO CAN ENTER?
-
-				<div class='conditionText'> Entry is open to  &#145;followers&#146; of the Yamaha Music Australia Facebook page. This excludes employees & contractors of Yamaha Music Australia Pty Ltd.
-				</div>
+					<p> Information on prizes and how to enter this competition form part of these Terms & Conditions of Entry.
+					</p>
 
 
-				<p><p><p><p><p>5. CONTACTING PRIZE WINNER
+					<p>3. TERMS AND CONDITIONS OF ENTRY
 
-				<div class='conditionText'> The prize winners will be picked based on the most creative response. Winners will be contacted via Facebook and asked to contact Yamaha Music Education Australia via the Facebook page to claim their prize.
-				</div>
-
-
-				<p><p><p><p><p>6. USE OF PRIZE
-
-				<div class='conditionText'> All prizes are non-transferable, non-refundable, non-exchangeable, non-replaceable and non-redeemable for cash. Prizes cannot be used to purchase gift certificates, nor can they be re-sold.
-				</div>
+					<p> By entering this competition, entrants accept the above-stated Terms & Conditions of Entry.
+					</p>
 
 
-				<p><p><p><p><p>7. PERSONAL INFORMATION
+					<p>4. WHO CAN ENTER?
 
-				<div class='conditionText'> Use of your personal information is governed by Yamaha Music Australia&#146;s Privacy Policy.
-				</div>
+					<p> Entry is open to  &#145;followers&#146; of the Yamaha Music Australia Facebook page. This excludes employees & contractors of Yamaha Music Australia Pty Ltd.
+					</p>
 
-				<p><p><p><p><p>8. INSTAGRAM / FACEBOOK
 
-				<div class='conditionText'> 
-					Instagram and Facebook have no association or jurisdiction over the competition. This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram or Facebook. Participants are providing information to Yamaha Music Australia and not to Instagram or Facebook. Winners in this promotion agree that their identity may be disclosed in winner announcements and promotional material. 
-				</div>	
-				<p><p>
-				<div class="alert alert-info" role="alert">
-					<p><strong>* Terms and Conditions</strong></p>            
-					<p>Relay G10 will be awarded on merit to a workshop attendee present on the night, judged by Line 6 Product specialist based on participation in the HELIX tone creation activity. Prizes cannot be transferred, exchanged or redeemed for cash. Prize winners must be present in person to collect their prize.</p>		
-					<p>The prices set out in this advertisement are recommended retail prices (RRP) only and there is no obligation for Yamaha/Line 6 dealers to comply with this recommendation. Errors and omissions excepted.</p>
+					<p>5. CONTACTING PRIZE WINNER
+
+					<p> The prize winners will be picked based on the most creative response. Winners will be contacted via Facebook and asked to contact Yamaha Music Education Australia via the Facebook page to claim their prize.
+					</p>
+
+
+					<p>6. USE OF PRIZE
+
+					<p> All prizes are non-transferable, non-refundable, non-exchangeable, non-replaceable and non-redeemable for cash. Prizes cannot be used to purchase gift certificates, nor can they be re-sold.
+					</p>
+
+
+					<p>7. PERSONAL INFORMATION
+
+					<p> Use of your personal information is governed by Yamaha Music Australia&#146;s Privacy Policy.
+					</p>
+
+					<p>8. INSTAGRAM / FACEBOOK
+
+					<p> 
+						Instagram and Facebook have no association or jurisdiction over the competition. This promotion is in no way sponsored, endorsed or administered by, or associated with, Instagram or Facebook. Participants are providing information to Yamaha Music Australia and not to Instagram or Facebook. Winners in this promotion agree that their identity may be disclosed in winner announcements and promotional material. 
+					</p>
+					
+					
 				</div>
 				
 			</div>	
