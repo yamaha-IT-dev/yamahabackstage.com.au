@@ -25,9 +25,11 @@ strSection = "news"
     <div class="container text-center">
         <h1>Featured Products</h1>		
 		<hr>
+		<!--
         <a href="namm_2017/">
             <img src="images/mainbanner_namm_2017_med.jpg" alt="NAMM 2017" class="img-responsive">
         </a>
+		-->
         <hr>
         <a href="paiste-go-bigger/">
             <img src="images/mainbanner_paiste_go_bigger_med.jpg" alt="Paiste - Go Bigger - 17&Prime; 2002 Sound Edge Hats - 24&Prime; Swish Ride - 26&Prime; Giant Beat" class="img-responsive">

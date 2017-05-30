@@ -52,11 +52,13 @@ strSection = "home"
                         <img src="greatstart/banners/mainbanner_greatstart.jpg" alt="Off to a Great Start">
                     </a>
                 </div> 				
+				<!--
 				<div class="item">
                     <a href="products/namm_2017/">
                         <img src="products/images/mainbanner_namm_2017.jpg" alt="NAMM - 2017">
                     </a>
                 </div>  				
+				-->
                 <div class="item">
                     <a href="products/paiste-go-bigger/">
                         <img src="products/images/mainbanner_paiste_go_bigger.jpg" alt="Paiste - Go Bigger - 17&Prime; 2002 Sound Edge Hats - 24&Prime; Swish Ride - 26&Prime; Giant Beat">
