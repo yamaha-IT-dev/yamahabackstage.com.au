@@ -32,24 +32,27 @@ strSection = "home"
                 <li data-target="#myCarousel" data-slide-to="2"></li>
                 <li data-target="#myCarousel" data-slide-to="3"></li>
                 <li data-target="#myCarousel" data-slide-to="4"></li>
-                <li data-target="#myCarousel" data-slide-to="5"></li>
+<!--               
+			    <li data-target="#myCarousel" data-slide-to="5"></li>
                 <li data-target="#myCarousel" data-slide-to="6"></li>                
+-->				
             </ol>
             <!-- Slides -->
             <div class="carousel-inner"> 
 				<!--
-				<div class="item active">
+				<div class="item ">
                     <a href="competition/">
                         <img src="competition/images/YMH0033_PaisteCompBanners_1140x500.jpg" alt="Sydney Drum Show Competition">
                     </a>
                 </div> 			
-				-->
+				
 				<div class="item">
                     <a href="events/hands-on-helix-tour/">
                         <img src="events/images/helix-workshop.jpg" alt="CVP Clavinova Cashback">
                     </a>
                 </div> 
-				<div class="item">
+				-->
+				<div class="item active">
                     <a href="http://greatstart.yamahabackstage.com.au/">
                         <img src="greatstart/banners/mainbanner_greatstart.jpg" alt="Off to a Great Start">
                     </a>

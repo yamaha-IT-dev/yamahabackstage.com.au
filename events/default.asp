@@ -24,10 +24,12 @@ strSection = "news"
     <div class="bg-section-heading-allbrands"></div>
     <div class="container text-center">
         <h1>Events</h1>        		
-        <!-- <p>I'm sorry, there are no current events! Please check back later.</p> -->
+        <p>I'm sorry, there are no current events! Please check back later.</p> 
+		<!--
 		<a href="hands-on-helix-tour/">
             <img src="images/helix-workshop-med.jpg" alt="Hands on Helix Tour" class="img-responsive">
         </a>
+		-->
         <hr>        
     </div>
     <!-- #include virtual="/include/footer-new.asp" -->
