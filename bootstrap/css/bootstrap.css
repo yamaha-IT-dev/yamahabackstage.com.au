@@ -5598,6 +5598,10 @@ h2.piano {
 	background-image: url(../../icons/steinberg.png);
 	background-repeat: no-repeat;
 	background-position: center;
+/*
+	background-size: contain;
+	*/
+	
 }
 .bg-section-heading.line6 {
 	background-color: #333333;
