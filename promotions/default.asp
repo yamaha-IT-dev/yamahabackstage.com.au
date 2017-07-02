@@ -24,8 +24,21 @@ strSection = "news"
     <div class="bg-section-heading-allbrands"></div>
     <div class="container" align="center">
         <h1>Current Promotions</h1>
-        <hr>
+        
+		
         <!-- 1 -->
+		 <p>
+            <a target='_BLANK' href="TFTradeIn/YamahaBackstageTFSeriesTrade-in.html">
+                <img src="images/banners/PRO 476 TF Trade In Main.jpg" alt="Yamaha - TF Trade in" class="img-responsive" />
+            </a>
+        </p>
+        <h2>Yamaha TF Series Trade-in Any Mixer Promotion</h2>
+        
+        <a class="btn btn-success" href="TFTradeIn/YamahaBackstageTFSeriesTrade-in.html" role="button">View details &raquo;</a>
+        <hr>
+		<!-- 1/ -->
+		
+		<!-- 2 -->
         <p>
             <a href="http://greatstart.yamahabackstage.com.au">
                 <img src="images/banners/mainbanner_greatstart_slim.jpg" alt="Yamaha - Off To A Great Start - Everything You Need To Get Started" class="img-responsive" />
@@ -35,7 +48,7 @@ strSection = "news"
         <p>Resources for teachers, students and parents to encourage participation in music.</p>
         <a class="btn btn-success" href="http://greatstart.yamahabackstage.com.au" role="button">View details &raquo;</a>
         <hr>
-        <!-- 2 -->        
+        <!-- 2/ -->        
         <br>		
         <!--<hr>-->
     </div>
