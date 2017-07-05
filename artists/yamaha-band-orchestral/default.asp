@@ -73,6 +73,12 @@ strSubMenu = "bo"
             </a>
             <h3>Cheryl Hollinger</h3>
         </div>
+		<div class="float-left-artist text-center">
+            <a href="Horns-Of-Leroy.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('hornsOfLeroyImg','','../images/hornsOfLeroy/hol-thumbnail-blackandwhite.jpg',0)">
+                <img src="../images/hornsOfLeroy/hol-thumbnail.jpg" alt="Horns Of Leroy" name="hornsOfLeroyImg" />
+            </a>
+            <h3>Horns Of Leroy</h3>
+        </div>
         <div class="float-left-artist text-center">
             <a href="Jake-Mason.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Jake-Mason','','../images/Jake-Mason_roll.jpg',0)">
                 <img src="../images/Jake-Mason_small.jpg" alt="Jake Mason" name="Jake-Mason" />
@@ -145,6 +151,7 @@ strSubMenu = "bo"
             </a>
             <h3>Speak Percussion</h3>
         </div>
+	   
     </div>
     <!-- #include virtual="/include/footer-new.asp" -->
 </body>
