@@ -29,19 +29,22 @@ strSection = "news"
         <!-- 1 -->
 		 <p>
             <a target='_BLANK' href="TFTradeIn/YamahaBackstageTFSeriesTrade-in.html">
-                <img src="images/banners/PRO 476 TF Trade In Main.jpg" alt="Yamaha - TF Trade in" class="img-responsive" />
+                <img src="images/banners/PRO 476 TF Trade In Main.jpg" alt="Yamaha - TF Trade in" 
+				class="img-responsive" />
             </a>
         </p>
         <h2>Yamaha TF Series Trade-in Any Mixer Promotion</h2>
         
-        <a class="btn btn-success" href="TFTradeIn/YamahaBackstageTFSeriesTrade-in.html" role="button">View details &raquo;</a>
+        <a class="btn btn-success" href="TFTradeIn/YamahaBackstageTFSeriesTrade-in.asp" role="button">View details &raquo;</a>
         <hr>
 		<!-- 1/ -->
 		
 		<!-- 2 -->
         <p>
             <a href="http://greatstart.yamahabackstage.com.au">
-                <img src="images/banners/mainbanner_greatstart_slim.jpg" alt="Yamaha - Off To A Great Start - Everything You Need To Get Started" class="img-responsive" />
+                <img src="images/banners/mainbanner_greatstart_slim.jpg" 
+				alt="Yamaha - Off To A Great Start - Everything You Need To Get Started" 
+				class="img-responsive" />
             </a>
         </p>
         <h2>OFF TO A GREAT START with Yamaha is about getting started with music, now!</h2>

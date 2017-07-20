@@ -74,7 +74,7 @@ p {
 					<p>
 					<p style="padding-top:30px"><p><p><p><p>1. COMPETITION PROMOTER
 
-					<p>The Promoter is Yamaha Music Pty Ltd, L1, 99 Queensbridge Street, Southbank Vic 3006.
+					<p>The Promoter is Yamaha Music Pty Ltd, Level 1, 80 Market Street, South Melbourne VIC 3205.
 					
 
 

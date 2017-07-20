@@ -52,7 +52,14 @@ strSection = "home"
                     </a>
                 </div> 
 				-->
+				
+				
 				<div class="item active">
+                    <a href="http://www.yamahabackstage.com.au/promotions/TFTradeIn/YamahaBackstageTFSeriesTrade-in.asp">
+                        <img src="images/banners/TF_Trade_Main.jpg" alt="Pro TF Trade In Main">
+                    </a>
+                </div> 				
+				<div class="item">
                     <a href="http://greatstart.yamahabackstage.com.au/">
                         <img src="greatstart/banners/mainbanner_greatstart.jpg" alt="Off to a Great Start">
                     </a>
